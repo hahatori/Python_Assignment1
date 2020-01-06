@@ -30,7 +30,7 @@ This project uses [Python](https://www.python.org), [Anaconda](https://www.anaco
 
 My Programming Assignment1 contains 5 parts. This is a simple list of what all the practicals. 
 
-- [Agents!](#https://github.com/hahatori/Agents)
+- [Agents!](#https://github.com/hahatori/Agents/model.py)
 - [I/O](#IO/)
 - [Communicating](#Communicating/)
 - [Animation/Behaviour](#Animation/)
