@@ -1,9 +1,5 @@
-# Python_Assignment1
+# Python Assignment1
 
-![banner]()
-
-![badge]()
-![badge]()
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
@@ -14,14 +10,15 @@ This is a long description.
 ## Table of Contents
 
 - [Software](#software)
-- [File List](#file List)
+- [Assignment](#assignment)
 - [Run](#run)
-- [Expected Results](#expected results)
+- [Results](#results)
+- [Document](#document)
 - [License](#license)
 
 ## Software
 
-This project uses [Python](), [Anaconda]()and [Spyder](). Go check them out if you don't have them locally installed.
+This project uses [Python](https://www.python.org), [Anaconda](https://www.anaconda.com) and [Spyder](https://www.spyder-ide.org). Go check them out if you don't have them locally installed.
 
 [Python][] is a cross-platform computer programming language. Is an object-oriented dynamically typed language that was originally designed to write automated scripts (shells) and is increasingly being used for independent, large-scale project development as versions are updated and new features are added to the language.
 
@@ -29,44 +26,38 @@ This project uses [Python](), [Anaconda]()and [Spyder](). Go check them out if y
 
 [Spyder][] is a simple integrated development environment. Its main advantage over other Python development environments is that it mimics the "workspace" of MATLAB, making it easy to view and modify array values.
 
-## File List
+## Assignment
 
-My Programming Assignment1 contains 5 practicals.
+My Programming Assignment1 contains 5 parts. This is a simple list of what all the practicals. 
 
 - [Agents!](#agents)
-- [I/O](#IO)
+- [I/O](#I/O)
 - [Communicating](#communicating)
 - [Animation/Behaviour](#animation)
 - [GUI/Web scraping](#GUI)
 
 ## Run
 
+### how it can be run
+
 This project uses [Anaconda]() and [Spyder]().Go check them out if you don't have them locally installed.
 
 ```ABC
 ```
 
-### Any optional sections
+## Results
 
-## Expected Results
+### what is to be expected when it is run
 
 ```
 ```
 
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
+## Document
 
-### Any optional sections
+See [Document](Document)!
 
-## Contributing
-
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
+This additional document provides details about how to run the software, what to expect when it is run, outline any ‘known issues’, outline any testing done and may provide a suggested development roadmap.
 
 ## License
 
-[MIT © Richard McRichface.](../LICENSE)
+[MIT] (LICENSE)© Tori
