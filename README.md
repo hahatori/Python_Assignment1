@@ -30,7 +30,7 @@ This project uses [Python](https://www.python.org), [Anaconda](https://www.anaco
 
 My Programming Assignment1 contains 5 parts. This is a simple list of what all the practicals. 
 
-- [Agents!](#https://github.com/hahatori/Agents)
+- [Agents!](#https://github.com/hahatori)
 - [I/O](#I/O)
 - [Communicating](#communicating)
 - [Animation/Behaviour](#animation)
@@ -60,4 +60,4 @@ This additional document provides details about how to run the software, what to
 
 ## License
 
-[MIT](LICENSE)© Tori
+[MIT](https://github.com/angular/angular.js/blob/master/LICENSE)© Tori
