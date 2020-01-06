@@ -30,11 +30,11 @@ This project uses [Python](https://www.python.org), [Anaconda](https://www.anaco
 
 My Programming Assignment1 contains 5 parts. This is a simple list of what all the practicals. 
 
-- [Agents!](#https://github.com/hahatori)
-- [I/O](#I/O)
-- [Communicating](#communicating)
-- [Animation/Behaviour](#animation)
-- [GUI/Web scraping](#GUI)
+- [Agents!](#Agents/)
+- [I/O](#IO/)
+- [Communicating](#Communicating/)
+- [Animation/Behaviour](#Animation/)
+- [GUI/Web scraping](#GUI/)
 
 ## Run
 
