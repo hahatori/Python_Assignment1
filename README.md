@@ -56,11 +56,11 @@ This project uses [Anaconda]() and [Spyder]().Go check them out if you don't hav
 
 See the description of each **README.md**. These documents provides details about every respository, how to run the software, what to expect when it is run, outline any ‘known issues’ and outline any testing done.
 
--[README_Agents](https://github.com/hahatori/Agents)!
--[README_I/O](https://github.com/hahatori/IO)!
--[README_Communicating](https://github.com/hahatori/Communicating)!
--[README_Animation](https://github.com/hahatori/Animation)!
--[README_GUI](https://github.com/hahatori/GUI)!
+- [README_Agents](https://github.com/hahatori/Agents)!
+- [README_I/O](https://github.com/hahatori/IO)!
+- [README_Communicating](https://github.com/hahatori/Communicating)!
+- [README_Animation](https://github.com/hahatori/Animation)!
+- [README_GUI](https://github.com/hahatori/GUI)!
 
 
 ## License
