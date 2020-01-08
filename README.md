@@ -39,9 +39,9 @@ My Programming Assignment1 contains 5 parts. This is a simple list of what all t
 
 ### how it can be run
 
-This project uses [Anaconda]() and [Spyder]().Go check them out if you don't have them locally installed.
+This project uses [Anaconda]() and [Spyder](). Go check them out if you don't have them locally installed.
 
-The last GUI.py file to run is created by modifying the code from the first few files.
+The last GUI file to run is created by modifying the code from the first few files. Agents and models interact with each other, import agents and other python packages by running the model.py to output the results.
 
 ## Results
 
