@@ -65,4 +65,4 @@ See the description of each **README.md**. These documents provides details abou
 
 ## License
 
-[MIT](https://github.com/angular/angular.js/blob/master/LICENSE)© Tori
+[MIT](https://github.com/hahatori/Python_Assignment1/blob/master/License)© Tori
