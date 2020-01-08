@@ -1,8 +1,8 @@
 # Python Assignment1
 
-[![welcome](https://github.com/hahatori/Python_Assignment1/blob/master/images/welcome.jpg)
+![welcome](https://github.com/hahatori/Python_Assignment1/blob/master/images/welcome.jpg)
 
-This is an integrated file.
+This is an integrated Assignment, including 5 parts. You can find the contents, software and license down here, click on it and each repository has a README.md file that describes the entire repository, like how it can be run, the expected and actual results, etc. In addition, each directory contains the main program, environment and some required files. 
 
 My student id is 201308685.
 
@@ -47,7 +47,7 @@ The last GUI.py file to run is created by modifying the code from the first few 
 
 ### what is to be expected when it is run
 
-The expected results of the model is：
+The expected result is the agents can interact with each other and have a GUI that shows the animation by input or modify parameters.  
 
 Modify the IPython console from GUI.py to run to produce a separate window, called "My Model". The top left corner displays the window menu called "Model". Click on the menu displays a drop-down list named "Run model", continuing to click on it，displays an scatter plot animation.
 
